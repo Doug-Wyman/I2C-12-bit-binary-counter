@@ -1,3 +1,7 @@
+"""THIS CODE IS OBSOLETE! Changes promised!!.
+I am attempting to not just rewrite but make it
+as close to PEP-8 as possible."""
+
 import mcp_i2c
 from time import sleep
 import time
