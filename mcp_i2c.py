@@ -1,3 +1,8 @@
+"""THIS CODE IS OBSOLETE! Changes promised!!.
+I am attempting to not just rewrite but make it
+as close to PEP-8 as possible."""
+
+
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
